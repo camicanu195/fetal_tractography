@@ -1,5 +1,5 @@
 
-# 3D Tractography Visualization and Fetal Brain Tractography Pipeline
+# Fetal Brain Tractography Pipeline and Tractography Visualization
 
 ## Overview
 This repository contains two tutorials:
